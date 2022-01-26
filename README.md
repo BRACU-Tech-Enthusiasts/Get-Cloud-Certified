@@ -25,7 +25,19 @@ You may get these certification vouchers :
     PL-900: https://docs.microsoft.com/en-us/learn/certifications/power-platform-fundamentals/
 
 To get these:
-•    You can attend Virtual training days and get coupons for certifications . Link :      https://www.microsoft.com/en-us/trainingdays
+•    You can attend Virtual training days specially:
+
+ Microsoft Azure Virtual Training Day: AI Fundamentals
+
+ Microsoft Azure Virtual Training Day: Data Fundamentals
+
+ Microsoft Azure Virtual Training Day: Fundamentals 
+
+ Microsoft Security Virtual Training Day: Security, Compliance, and Identity Fundamentals
+
+ Microsoft Power Platform Virtual Training Day: Fundamentals
+
+and get coupons for certifications . Link :      https://www.microsoft.com/en-us/trainingdays
 
 •    You can take part in Azure skill challenges to get certification coupons. Link : https://www.microsoft.com/en-us/learncloudchallenge
 
