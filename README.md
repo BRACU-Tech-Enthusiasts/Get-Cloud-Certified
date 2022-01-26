@@ -19,6 +19,10 @@ You may get these certification vouchers :
     AI-900: https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900?tab=tab-learning-paths
 
     DP-900: https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900
+    
+    SC-900: https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/
+    
+    PL-900: https://docs.microsoft.com/en-us/learn/certifications/power-platform-fundamentals/
 
 To get these:
 •    You can attend Virtual training days and get coupons for certifications . Link :      https://www.microsoft.com/en-us/trainingdays
