@@ -37,7 +37,15 @@ To get these:
 
  Microsoft Power Platform Virtual Training Day: Fundamentals
 
-and get coupons for certifications . Link :      https://www.microsoft.com/en-us/trainingdays
+and get coupons for certifications .
+
+See the screenshots of voucher mails for
+[AZ 900](https://drive.google.com/file/d/1KRSDo9Iuq06PYUiZS5pHO6zQ3ToqbQxS/view?usp=sharing)
+[AI 900](https://drive.google.com/file/d/1o0uMj7grRohCET65x-xSvlnwaT1J5ntY/view?usp=sharing)
+[DP 900](https://drive.google.com/file/d/11N3q92d3mAnQ4oNCFcI_sE_od6a2oliP/view?usp=sharing)
+
+
+Link :      https://www.microsoft.com/en-us/trainingdays
 
 •    You can take part in Azure skill challenges to get certification coupons. Link : https://www.microsoft.com/en-us/learncloudchallenge
 
